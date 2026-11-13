@@ -1,0 +1,11 @@
+﻿用户ID,设备类型,评分,反馈文本,生成方式,检查结论(人工填写)
+85,Light,4,亮度调节表现不错，很满意,template_v1,
+37,Smart_plug,1,电量统计不太行，需要改进,template_v1,
+100,Air_conditioner,5,能耗表现表现不错，很满意,template_v1,
+174,Smart_plug,5,远程开关表现不错，超出预期,template_v1,
+10,Door_lock,5,门铃联动表现不错，很满意,template_v1,
+20,Smart_plug,3,插拔手感尚可，一般般,template_v1,
+138,Window_sensor,2,门窗感应灵敏度不太行，有点失望,template_v1,
+24,Motion_sensor,4,人体感应灵敏度表现不错，家人都说好用,template_v1,
+93,Air_conditioner,2,制冷效果不太行，有点失望,template_v1,
+154,系统级,1,设备偶尔离线要重连，不太理想,template_v1,
